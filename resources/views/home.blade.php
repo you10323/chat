@@ -14,8 +14,8 @@
                         </div>
                     @endif
 
-                    ようこそ!
-                    <a href='top/index'>Mypageへ</a>
+                    ようこそ!<br>
+                    <a href='top/index'>フレンドリスト</a>
                 </div>
             </div>
         </div>
